@@ -1,0 +1,4 @@
+An electronic crime scene has the potential to hold massive amounts of data obtained from media devices. The primary goal of a cyber forensics investigator is to transform raw evidential data into useful data sets. Depending on the particular illegal activity, it is likely that a media device (i.e., Laptops, digital cameras, phones or hard drives) will vary in the size and amount of evidence. As an example, one criminal case may contain a small fraction of information or devices, another criminal case may contain a substantially larger amount of
+data and multiple devices.
+
+The main goal of our project is to extract data from the electronic devices, process it and analyzing it.
